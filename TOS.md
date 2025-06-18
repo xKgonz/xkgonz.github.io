@@ -17,4 +17,4 @@ We may update or modify the Bot's features at any time without prior notice.
 We reserve the right to remove access to the Bot from any server or user for violating these Terms or Discord's own Terms of Service.
 
 ## 5. Contact
-For questions or issues regarding this Bot, please contact the developer via Discord or GitHub.
+For questions or issues regarding this Bot, please me at 'xkg_1' via Discord.
